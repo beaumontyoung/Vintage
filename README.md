@@ -1,2 +1,2 @@
 # Vintage
-Updates 
+Add top menu navigation to "About us" page
