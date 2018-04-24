@@ -1,3 +1,2 @@
 # Vintage
-Updates 
-Testing for vintage brand updates
+Add top menu navigation to "About us" page
